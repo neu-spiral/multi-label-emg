@@ -1,0 +1,6 @@
+pre-commit
+ruff
+ipython
+ipywidgets
+jupyterlab
+pytest

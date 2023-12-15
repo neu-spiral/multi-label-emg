@@ -1,0 +1,13 @@
+venv*
+
+__pycache__
+**/*.pyc
+**/*.pyo
+
+data
+results*
+logs*
+.pytest_cache
+*.egg-info
+figures*
+*.png

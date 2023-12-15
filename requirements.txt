@@ -1,0 +1,9 @@
+kaleido
+loguru
+numpy
+pandas
+plotly
+scikit-learn
+torch
+tqdm
+umap
