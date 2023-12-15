@@ -33,7 +33,7 @@ To read our paper, see: https://arxiv.org/pdf/2309.12217.pdf
 
 # Dataset
 
-To use our dataset, see: https://zenodo.org/records/10358039
+To use our dataset, see: https://zenodo.org/records/10393194
 
 # Citation
 
@@ -63,7 +63,7 @@ Article citation:
 
 Dataset citation:
 ```bibtex
-@dataset{smedemarkmargulies_2023_10358039,
+@dataset{smedemarkmargulies_2023_10393194,
   title={{EMG from Combination Gestures with Ground-truth Joystick Labels}},
   author={
     Smedemark-Margulies, Niklas and 
@@ -79,7 +79,7 @@ Dataset citation:
   month={12},
   day={15},
   publisher={Zenodo},
-  version={1.0.0},
-  doi={10.5281/zenodo.10358039},
-  url={https://doi.org/10.5281/zenodo.10358039}
+  version={1.0.1},
+  doi={10.5281/zenodo.10393194},
+  url={https://zenodo.org/records/10393194},
 }

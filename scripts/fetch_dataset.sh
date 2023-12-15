@@ -6,7 +6,7 @@ data_dir="$script_path/../data"
 mkdir -p $data_dir
 cd $data_dir
 
-zenodo_record_id=10358039
+zenodo_record_id=10393194
 folder_name=combo-gesture-joystick-dataset
 dataset_url="https://zenodo.org/records/${zenodo_record_id}/files/${folder_name}.zip?download=1"
 
